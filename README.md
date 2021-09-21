@@ -7,4 +7,3 @@ This template is nothing more than a Vite/Vue/JS starter template with Ionic and
 * Likewise, for other `ionic` commands, use corresponding Vite commands instead.
   * Found in `package.json`. 
 * After installing the Capacitor CLI you can use commands such as `npx cap sync ios` like normal. 
-* 
