@@ -6,4 +6,4 @@ This template is nothing more than a Vite/Vue/JS starter template with Ionic and
 * Rather than building with `ionic build`, use `npm run build` for Vite to compile a production build to the `dist` folder.
 * Likewise, for other `ionic` commands, use corresponding Vite commands instead.
   * Found in `package.json`. 
-* After installing the Capacitor CLI you can use commands such as `npx cap sync ios` like normal. 
+* After installing the Capacitor CLI you can use commands such as `npx cap sync ios` like a normal Capacitor project. 
